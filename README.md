@@ -102,7 +102,7 @@ S3 Bucket (Static Website Hosting)
 ## 📬 Contact
 **Pranit Potsure**  
 🔗 LinkedIn: https://www.linkedin.com/in/pranit-potsure  
-📂 GitHub: https://github.com/your-github-username
+📂 GitHub: https://github.com/pranitpotsure
 
 ---
 
